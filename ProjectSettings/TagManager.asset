@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Cherries
+  - Frog
+  - box
+  - EndGame
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer 1
+    uniqueID: 1801586459
+    locked: 0
+  - name: New Layer 2
+    uniqueID: 2088567039
+    locked: 0
+  - name: New Layer 3
+    uniqueID: 3372204917
+    locked: 0
+  - name: New Layer 4
+    uniqueID: 2622070989
+    locked: 0
+  - name: New Layer 5
+    uniqueID: 2491686681
+    locked: 0
+  - name: New Layer 6
+    uniqueID: 4281142563
+    locked: 0
+  - name: New Layer 7
+    uniqueID: 495142609
+    locked: 0
+  - name: New Layer 8
+    uniqueID: 2989702295
+    locked: 0
